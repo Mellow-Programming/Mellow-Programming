@@ -1,16 +1,14 @@
-### Hi there 👋
+# Mellow Asmr Programming
 
-<!--
-**Mellow-Programming/Mellow-Programming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal GitHub repository for my YouTube channel "Mellow Asmr Programming"! Here, you'll find all the code and resources related to my videos on ASMR programming and coding.
 
-Here are some ideas to get you started:
+## Video Tutorials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. [ASMR Programming: Create a Google-like Autocomplete Search Box with HTML, CSS, and JavaScript](link)
+
+## Follow me
+
+- [YouTube](https://www.youtube.com/@Mellow.ASMR.Programming)
+- [GitHub](https://github.com/Mellow-Programming)
+
+Thanks for visiting and don't forget to subscribe to my channel for more ASMR programming content!

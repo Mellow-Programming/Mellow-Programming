@@ -8,7 +8,7 @@ Welcome to my personal GitHub repository for my YouTube channel "Mellow Asmr Pro
 
 ## Follow me
 
-- [YouTube](https://www.youtube.com/@Mellow.ASMR.Programming)
+- [YouTube](https://www.youtube.com/@MellowAsmrProgramming)
 - [GitHub](https://github.com/Mellow-Programming)
 
 Thanks for visiting and don't forget to subscribe to my channel for more ASMR programming content!

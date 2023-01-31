@@ -4,7 +4,8 @@ Welcome to my personal GitHub repository for my YouTube channel "Mellow Asmr Pro
 
 ## Video Tutorials
 
-1. [ASMR Programming: Create a Google-like Autocomplete Search Box with HTML, CSS, and JavaScript](link)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Follow me
 

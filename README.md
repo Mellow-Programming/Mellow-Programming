@@ -1,8 +1,10 @@
-# Mellow Asmr Programming
+# Mellow Asmr Programming 😻
+```
+Welcome to my personal GitHub repository for my YouTube channel "Mellow Asmr Programming"!
+Here, you'll find all the code and resources related to my videos on ASMR programming and coding.
+```
 
-Welcome to my personal GitHub repository for my YouTube channel "Mellow Asmr Programming"! Here, you'll find all the code and resources related to my videos on ASMR programming and coding.
-
-## Video Tutorials
+## My Latest Youtube Video
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EJCY4g86tf4"><img width="140px" src="https://i.ytimg.com/vi/EJCY4g86tf4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EJCY4g86tf4">ASMR Programming: Refresh for a New Color - A Random Background Web Page with HTML, CSS, and JS</a><br/>31 Jan 2023</td></tr></table>

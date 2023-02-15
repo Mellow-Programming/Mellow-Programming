@@ -7,7 +7,7 @@ Here, you'll find all the code and resources related to my videos on ASMR progra
 ## My Latest Youtube Video
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=O1-H0et5ucc"><img width="140px" src="https://i.ytimg.com/vi/O1-H0et5ucc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=O1-H0et5ucc">Use ChatGPT Like a Pro - ChatGPT &amp; JavaScript Cool Note Taking App - ASMR Programming - No Talking</a><br/>15 Feb 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=O1-H0et5ucc">ASMR Programming - use ChatGPT Like a Pro - JavaScript &amp; ChatGPT Cool Note Taking App - No Talking</a><br/>15 Feb 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EIk0RSiV9Ys"><img width="140px" src="https://i.ytimg.com/vi/EIk0RSiV9Ys/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EIk0RSiV9Ys">ASMR Programming - Calculator App using JavaScript - No Talking</a><br/>8 Feb 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EJCY4g86tf4"><img width="140px" src="https://i.ytimg.com/vi/EJCY4g86tf4/mqdefault.jpg"></a></td>

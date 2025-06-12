@@ -8,8 +8,8 @@ Here, you'll find all the code and resources related to my videos on ASMR progra
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=008DerDEjp8"><img width="140px" src="https://i.ytimg.com/vi/008DerDEjp8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=008DerDEjp8">ASMR programming : Code 3D Cube with CSS 🧊</a><br/>22 Feb 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Jo-mTB9EHi0"><img width="140px" src="https://i.ytimg.com/vi/Jo-mTB9EHi0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Jo-mTB9EHi0">The Evolution of Programmer to Promptrammer</a><br/>19 Feb 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/Jo-mTB9EHi0"><img width="140px" src="https://i.ytimg.com/vi/Jo-mTB9EHi0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/Jo-mTB9EHi0">The Evolution of Programmer to Promptrammer</a><br/>19 Feb 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=O1-H0et5ucc"><img width="140px" src="https://i.ytimg.com/vi/O1-H0et5ucc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=O1-H0et5ucc">ASMR Programming - use ChatGPT Like a Pro - JavaScript &amp; ChatGPT Cool Note Taking App - No Talking</a><br/>15 Feb 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EIk0RSiV9Ys"><img width="140px" src="https://i.ytimg.com/vi/EIk0RSiV9Ys/mqdefault.jpg"></a></td>
